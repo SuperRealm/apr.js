@@ -7,6 +7,14 @@
 shopId:58133283022
 productId:6676004045006
 
+测试商店登录流程：
+
+https://www.shopify.com/partners
+
+账号：waynechen@okaysou.com
+
+密码：chenwei765966
+
 5.安装商店
 
 rossvilo.com
