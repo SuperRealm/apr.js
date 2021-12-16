@@ -1,0 +1,30 @@
+{
+  "name": "apr.js",
+  "version": "1.0.0",
+  "description": "shopify商店中apr.js插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.okaysou.com:30000/atomee/apr.js.git"
+  },
+  "author": "wayne",
+  "license": "ISC",
+  "devDependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.0-beta1",
+    "css-loader": "^6.2.0",
+    "lodash": "^4.17.21",
+    "popper.js": "^1.16.1",
+    "postcss-loader": "^6.1.1",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.47.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "uglify-es-webpack-plugin": "^0.10.0",
+    "uglifyjs-webpack-plugin": "^2.2.0"
+  }
+}
